@@ -9,6 +9,10 @@ TagManager:
   - MyCar
   - bariar
   - music
+  - left_border
+  - right_border
+  - top_border
+  - buttom_border
   layers:
   - Default
   - TransparentFX

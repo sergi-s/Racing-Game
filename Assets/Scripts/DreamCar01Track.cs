@@ -71,6 +71,12 @@ public class DreamCar01Track : MonoBehaviour
             {
                 marktracker = 0;
             }
+            // if(marktracker==2){
+            //     marktracker = 3;
+            // }
+            // if(marktracker==7){
+            //     marktracker = 8;
+            // }
             yield return new WaitForSeconds(1);
             this.GetComponent<BoxCollider>().enabled = true;
 
